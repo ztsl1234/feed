@@ -13,4 +13,4 @@
 
 6. Run kafka message consumer
 
-   python kafka_consumer.py
+   python stream_job.py
